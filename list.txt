@@ -32,6 +32,7 @@ www.youtube.com##ytm-shorts-lockup-view-model-v2:upward(grid-shelf-view-model)
 
 ! Hide yt premium banner
 www.youtube.com##ytd-rich-section-renderer:has(ytd-statement-banner-renderer)
+www.youtube.com##ytd-rich-section-renderer:has(ytd-brand-video-shelf-renderer)
 
 !!! MOBILE !!!
 
